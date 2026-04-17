@@ -1,0 +1,70 @@
+{
+  "name": "ShikshaGaurd - Intelligent School Infrastructure Assessment System",
+  "short_name": "ShikshaGaurd",
+  "description": "Intelligent School Infrastructure Assessment System",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "theme_color": "#07090f",
+  "background_color": "#0d111a",
+  "icons": [
+    {
+      "src": "/favicon-16x16.png",
+      "sizes": "16x16",
+      "type": "image/png"
+    },
+    {
+      "src": "/favicon-32x32.png",
+      "sizes": "32x32",
+      "type": "image/png"
+    },
+    {
+      "src": "/SG.png",
+      "sizes": "any",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "Overview",
+      "short_name": "Dashboard",
+      "description": "Go to the dashboard overview",
+      "url": "/?mode=overview",
+      "icons": [
+        {
+          "src": "/favicon-32x32.png",
+          "sizes": "32x32"
+        }
+      ]
+    },
+    {
+      "name": "School Search",
+      "short_name": "Search",
+      "description": "Search for schools",
+      "url": "/?mode=search",
+      "icons": [
+        {
+          "src": "/favicon-32x32.png",
+          "sizes": "32x32"
+        }
+      ]
+    }
+  ],
+  "categories": ["education", "business", "productivity"],
+  "screenshots": [
+    {
+      "src": "/SG.png",
+      "sizes": "any",
+      "type": "image/png",
+      "form_factor": "narrow"
+    },
+    {
+      "src": "/SG.png",
+      "sizes": "any",
+      "type": "image/png",
+      "form_factor": "wide"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+# Core API
+fastapi
+uvicorn[standard]
+pydantic
+python-multipart
+
+# ML
+scikit-learn
+xgboost
+joblib
+numpy
+pandas
+shap
+
+# Database
+sqlalchemy
+
+# AI (OpenRouter via standard HTTP)
+httpx
+
+# Utilities
+python-dotenv
+python-jose[cryptography]
+passlib[bcrypt]
+slowapi
+alembic

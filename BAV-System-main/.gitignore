@@ -1,0 +1,6 @@
+.env
+*.db
+app/models/artifacts/
+training.log
+frontend/
+venv/
