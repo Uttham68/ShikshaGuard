@@ -329,7 +329,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ## 👥 Contributors
 
 - **Uttham68** (GitHub: [@Uttham68](https://github.com/Uttham68))
-- **PRANAV5112** (GitHub: [@PRANAV5112]((https://github.com/PRANAV5112)))
+- **PRANAV5112** (GitHub: [@PRANAV5112](https://github.com/PRANAV5112))
 
 ## 📞 Support & Contact
 
