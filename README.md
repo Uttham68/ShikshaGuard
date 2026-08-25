@@ -2,6 +2,8 @@
 
 A comprehensive **Budget Allocation & Validation (BAV) System** for educational institutions. ShikshaGuard leverages AI/ML and rule-based validation to help schools optimize budget allocation, forecast infrastructure needs, and identify financial anomalies.
 
+View GitHub Repository : https://github.com/Uttham68/ShikshaGuard
+
 ## 🎯 Overview
 
 ShikshaGuard is an intelligent decision-support system designed to:
